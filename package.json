@@ -1,6 +1,7 @@
 {
   "name": "openxml",
   "version": "1.0.2",
+  "type": "commonjs",
   "description": "Open XML SDK for JavaScript",
   "scripts": {
     "lint": "eslint performance src --ignore-path .gitignore",
